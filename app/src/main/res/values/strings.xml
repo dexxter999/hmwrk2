@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Applicationnn</string>
+    <string name="todo">TODO</string>
+    <string name="login_screens">Login Screens</string>
+    <string name="sign_up_screens">Sign Up screens</string>
+    <string name="dashboard_screens">DashBoard Screens</string>
+    <string name="profile_screens">Profile Screens</string>
+</resources>
